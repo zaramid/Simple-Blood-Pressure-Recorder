@@ -1,1 +1,1 @@
-# Simple-Blood-Pressure-Recorder
+# Simple Blood Pressure-Recorder
